@@ -14,7 +14,6 @@ which may need attention or refinement.
    are permitted to log on. Let me know if this is the intention.
    
    * Yes, this is the intention. 
-   * Can you also add members of our postgrad reserach students, who are on  SciTechPsychologyResearchStudents@bournemouth.ac.uk
    * Will new members of those mailing lists inherit the permission to login when they join the list?
 
 * A domain (current test domain is uruguay.bournemouth.ac.uk). For a
@@ -28,7 +27,7 @@ which may need attention or refinement.
    to run what type of apps ? This will affect RAM, number of
    processors and storage quotas.
    
-   * A whole year group should be able to access it concurrently (N = 500) 
+   * A whole year group should be able to access it concurrently (N = 500)
 
 * R packages/libraries. Staff users, like your self, can install and
    manage their own (user) packages for the most part, but the system
