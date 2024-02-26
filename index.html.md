@@ -1,5 +1,5 @@
 ---
-title: "R Shiy Server uruguay"
+title: "R Shiny Server uruguay"
 author: "Matt and Alex"
 format: html
 editor: source
@@ -8,8 +8,8 @@ keep-md: true
 
 
 
-Tom wrote: ***A test rshiny/rstudio server is ready. There are a number of areas
-which may need attention or refinement.***
+Tom wrote: A test rshiny/rstudio server is ready. There are a number of areas
+which may need attention or refinement.
 
 * Currently all of Scitech Psychology Staff (academic) can access
    it. They will need to know of the service, but in principle they

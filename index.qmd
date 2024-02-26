@@ -1,5 +1,5 @@
 ---
-title: "R Shiy Server uruguay"
+title: "R Shiny Server uruguay"
 author: "Matt and Alex"
 format: html
 editor: source
