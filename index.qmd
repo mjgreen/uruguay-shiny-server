@@ -49,4 +49,4 @@ which may need attention or refinement.
 * Will the server host critical content e.g. content used in
    assessments ?
    
-   * No - Alex?
+   * No
