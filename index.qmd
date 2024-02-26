@@ -3,7 +3,6 @@ title: "R Shiny Server uruguay"
 author: "Matt and Alex"
 format: html
 editor: source
-keep-md: true
 ---
 
 Tom wrote: A test rshiny/rstudio server is ready. There are a number of areas
